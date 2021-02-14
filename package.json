@@ -9,7 +9,7 @@
     "prepublish": "npm run snyk-protect"
   },
   "dependencies": {
-    "express": "4.17.1",
+    "express": "1.0.0",
     "cfenv": "1.2.x",
     "snyk": "^1.454.0"
   },
